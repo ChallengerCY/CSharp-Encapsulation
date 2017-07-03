@@ -1,0 +1,1 @@
+c:\visual studio 2013\Projects\CSharpEncapsulation\CSharpEncapsulation\bin\Debug\CSharpEncapsulation.exe.config
